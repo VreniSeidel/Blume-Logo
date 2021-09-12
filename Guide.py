@@ -31,7 +31,10 @@ class Guide():
         tk.Label(self.root, text="r", borderwidth=2, relief="groove").grid(row=6, column=0, padx=(15, 15), pady=(10, 10))
         tk.Label(self.root, text="Rainbow").grid(row=6, column=1) 
         
-        tk.Label(self.root, text="Close for start", borderwidth=2, relief="groove").grid(row=7, column=1, padx=(15, 15), pady=(10, 10))
+        tk.Button(command=self.exitFun, text="Click to run", borderwidth=5, relief="groove").grid(row=7, column=1, padx=(15, 15), pady=(10, 10))
 
         tk.Pack()        
         self.root.mainloop()
+
+    def exitFun(self):
+        self.root.destroy()
