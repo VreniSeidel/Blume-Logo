@@ -1,6 +1,9 @@
-# Blume-Logo
+# Blume
 
 Simple logo generator Blume
+
+Original code author: Neuxbane
+Project link: https://github.com/Neuxbane/AbstractLogo
 
 Build Instructions
 ------------------
