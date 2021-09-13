@@ -8,7 +8,7 @@ Project link: https://github.com/Neuxbane/AbstractLogo
 
 Build Instructions
 ------------------
-On Unix, Linux, BSD:
+On Linux:
 
     sudo apt-get update
     sudo apt-get install python3 python3-pip python3-tk
