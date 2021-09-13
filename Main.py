@@ -3,7 +3,7 @@ import time
 
 # Related
 from HotKeys import *
-from AbstractLogo import *
+from Abstract import *
 from Guide import *
 
 # Local
@@ -20,7 +20,7 @@ run = True					# Game is running constantly
 keyDown = [[], [], []]		# Arrays of cordinats
 windowSize.fill((0, 0, 0))	# Fill function which fills the Surface object with black color
 
-abstractLogo = AbstractLogo()
+abstractLogo = Abstract()
 hotKeys = HotKeys()
 guide = Guide()
 

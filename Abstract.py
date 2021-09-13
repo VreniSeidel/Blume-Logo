@@ -10,7 +10,7 @@ from Coordinate import *
 colors = Colors()
 coordinate = Coordinate()
 
-class AbstractLogo:
+class Abstract:
 	"""Abstract Logo class for creating object shape on the screen"""
 	def __init__(self):
 		self.x = 0
