@@ -2,12 +2,15 @@
 
 Simple logo generator Blume
 
-<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png" width="400" heigh="400" display="inline">
-<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631623452951.png" width="400" heigh="400" display="inline">
+<div class="inline-block">
+<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png" width="400" heigh="400">
+</div>
+<div class="inline-block">
+<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631623452951.png" width="400" heigh="400">
+</div>
+<div class="inline-block">
 <img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631624025323.png" width="400" heigh="400">
-p {
-    display: inline
-}
+</div>
 
 Original code author: Neuxbane
 
