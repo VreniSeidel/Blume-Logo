@@ -2,6 +2,8 @@
 
 Simple logo generator Blume
 
+![alt text]()
+
 Original code author: Neuxbane
 
 Project link: https://github.com/Neuxbane/AbstractLogo
