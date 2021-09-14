@@ -2,7 +2,7 @@
 
 Simple logo generator Blume
 
-![alt text](https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png = 250x250)
+![alt text](https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png=250x250)
 
 Original code author: Neuxbane
 
