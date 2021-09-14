@@ -1,7 +1,7 @@
 # Blume
 
 Simple logo generator Blume
-<div>
+<p>
 <div class="inline-block">
 <img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png" width="400" heigh="400">
 </div>
@@ -11,7 +11,7 @@ Simple logo generator Blume
 <div class="inline-block">
 <img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631624025323.png" width="400" heigh="400">
 </div>
-    </div>
+</p>
 
 Original code author: Neuxbane
 
