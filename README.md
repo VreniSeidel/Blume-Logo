@@ -2,9 +2,9 @@
 
 Simple logo generator Blume
 
-![alt text](https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png)
-<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png" width="200" heigh="200">
-
+<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631549384684.png" width="400" heigh="400">
+<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631623452951.png" width="400" heigh="400">
+<img src="https://github.com/VreniSeidel/Blume-Logo/blob/main/1631624025323.png" width="400" heigh="400">
 
 Original code author: Neuxbane
 
