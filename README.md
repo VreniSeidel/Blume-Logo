@@ -2,7 +2,7 @@
 
 Abstract shape generator
 
-<p align="center">
+<p align="">
     <a href="https://github.com/VreniSeidel" alt="Contributors">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://ubuntu.com/" alt="Contributors">
